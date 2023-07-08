@@ -1,1 +1,2 @@
 # finedgeproject
+Created a modern and clean interface that aligned with FinEdge's brand identity. I paid careful attention to color schemes, typography, and imagery to create an engaging and professional and simple and clean. I utilized modern web development frameworks like tailwind and technologies to build a responsive and user-friendly single-page website. I faced issue while implementing design part using tailwind i solved the issue by using external css.
